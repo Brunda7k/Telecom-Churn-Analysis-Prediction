@@ -16,12 +16,12 @@ This project solves that in two steps: first understanding *why* customers leave
 
 | File | Description |
 |---|---|
-| `Customer_Churn_Analysis_Dashboard.pbix` | Business Analysis Dashboard — 5 pages of visual storytelling (Power BI) |
-| `Customer_Churn_Prediction_Dashboard.pbix` | ML Predictions Dashboard — Risk segmentation & churn probability (Power BI) |
-| `Customer-Churn-Predictions.ipynb` | Full Python ML pipeline — EDA, preprocessing, modeling, output |
-| `Telco-Customer-Churn.csv` | Source dataset — 7,043 customers, 21 columns (IBM Sample) |
-| `churn_predictions_output.csv` | Model output — Churn_Prediction & Churn_Probability for every customer |
-| `Data-StoryTelling.pdf` | Complete data storytelling report with business insights |
+| `Telecom-Churn-Analysis-Dashboard —Power BI.pbix` | Business Analysis Dashboard — 5 pages of visual storytelling (Power BI) |
+| `Telecom-Churn-Prediction-Dashboard —Power BI.pbix` | ML Predictions Dashboard — Risk segmentation & churn probability (Power BI) |
+| `Telecom-Churn-Predictions.ipynb` | Full Python ML pipeline — EDA, preprocessing, modeling, output |
+| `Telco_Customer_Churn.csv` | Source dataset — 7,043 customers, 21 columns (IBM Sample) |
+| `Telecom-churn-predictions-output.csv` | Model output — Churn_Prediction & Churn_Probability for every customer |
+| `Telecom-Churn-Data-Storytelling.pdf` | Complete data storytelling report with business insights |
 
 ---
 
